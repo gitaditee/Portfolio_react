@@ -1,0 +1,15 @@
+.name{
+    color: rgb(173, 225, 246);
+   
+}
+.name:hover{
+    color: white;
+    text-shadow:2px 2px 5px rgb(246, 173, 225);
+}
+.photo{
+    transition: transform 0.5s;
+}
+.photo:hover{
+   
+        transform: scale(1.1);
+}

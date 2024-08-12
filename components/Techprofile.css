@@ -1,0 +1,21 @@
+#aboutme{
+    color: rgb(173, 225, 246);
+}
+
+#aboutme:hover{
+    color: white;
+    text-shadow:2px 2px 5px rgb(246, 173, 225);
+}
+#cv{
+    background-color:blueviolet ;
+    text-align: center;
+    margin-left: 200px;
+    font-size: medium;
+    border-radius: 40px;
+    padding: 20px;
+    text-decoration: underline;
+}
+#cv:hover{
+    background-color:rgb(173, 225, 246) ;
+    box-shadow:blueviolet;
+}
