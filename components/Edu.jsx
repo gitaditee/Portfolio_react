@@ -4,14 +4,14 @@ import Row from 'react-bootstrap/Row';
 function Edu(){
     const data=[{
         id:1,
-        image:'images/gweca.png',
+        image:'./images/gweca.png',
         title:'Govt. Womens Engineering College , Ajmer',
         author:'Information Technology',
         date:'2021-2025',
         tags:['cgpa- 9.35']
     },{
         id:2,
-        image:'images/sfs.png',
+        image:'./images/sfs.png',
         title:'St. Francis Sr. Sec. School , Ajmer',
         author:'Senior Secondary Education & Secondary Education',
         date:'2016-2021',
