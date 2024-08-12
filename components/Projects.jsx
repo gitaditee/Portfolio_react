@@ -42,7 +42,7 @@ class Projects extends Component {
                 The project Web-based Application for the e-gate pass generator for the vistors showing the user's login and sign up page.
                 This system enables vistors to generate their e-gate pass online and submit their details to the system.
                 </p>
-                <a href="#" class="btn btn-primary">
+                <a href="https://github.com/gitaditee/e-visit-pass" class="btn btn-primary">
                   GitHub
                 </a>
               </div>
