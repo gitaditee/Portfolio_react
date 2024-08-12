@@ -24,7 +24,7 @@ function Experinec(){
     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     
   >
-    <img src="/images/narl.png" style={{width:"50%"}}></img>
+    <img src="./images/narl.png" style={{width:"50%"}}></img>
     <h4 className="vertical-timeline-element-title">National Atmospheric Research Laboratory, ISRO</h4>
     <p className="vertical-timeline-element-subtitle">Tirupathi Andhra Pradesh</p>
     <p>
@@ -40,7 +40,7 @@ function Experinec(){
     date="May-2024"
     dateClassName="date-white"
   >
-    <img src="/images/tata.png" style={{width:"50%"}}></img>
+    <img src="./images/tata.png" style={{width:"50%"}}></img>
     <h4 className="vertical-timeline-element-title">TATA Steel Ltd.</h4>
     <p className="vertical-timeline-element-subtitle">Remote</p>
     <p>
@@ -57,7 +57,7 @@ function Experinec(){
     date="May 2023"
     dateClassName="date-white"
   >
-    <img src="/images/idex.png" style={{width:"50%"}}></img>
+    <img src="./images/idex.png" style={{width:"50%"}}></img>
     <h4 className="vertical-timeline-element-title">iDEX-DIO</h4>
     <p className="vertical-timeline-element-subtitle">Remote</p>
     <p>
@@ -75,7 +75,7 @@ function Experinec(){
     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     // icon={<img src="/images/narllogo.png" borderRight="50%"></img>}
   >
-    <img src="/images/gs.png" style={{width:"50%"}}></img>
+    <img src="./images/gs.png" style={{width:"50%"}}></img>
     <h4 className="vertical-timeline-element-title">GoldMan Sachs</h4>
     <p className="vertical-timeline-element-subtitle">Remote</p>
     <p>
