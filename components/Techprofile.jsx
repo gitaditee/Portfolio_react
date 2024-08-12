@@ -33,7 +33,7 @@ function Techprofile(){
    <div class="col">
        <ReactCardFlip flipDirection='horizontal' isFlipped={isflipgfg}>
          <div  onClick={flipcardgfg}>
-         <img className="img-thumbnail rounded-circle h-20 w-50"  src="/images/gfg.png" />              
+         <img className="img-thumbnail rounded-circle h-20 w-50"  src="./images/gfg.png" />              
                     <a  href="https://auth.geeksforgeeks.org/user/21itgjti"/ >
                  </div>
                 
@@ -48,7 +48,7 @@ function Techprofile(){
    <div class="col">
    <ReactCardFlip flipDirection='horizontal' isFlipped={isfliple} >
          <div onClick={flipcardle} >
-         <img className="img-thumbnail rounded-circle h-20 w-50"   src="/images/leetcode.jpeg" />              
+         <img className="img-thumbnail rounded-circle h-20 w-50"   src="./images/leetcode.jpeg" />              
                     <a  href="https://auth.geeksforgeeks.org/user/21itgjti"/ >
                 </div>
                 
@@ -64,7 +64,7 @@ function Techprofile(){
    <div class="col">
    <ReactCardFlip flipDirection='horizontal' isFlipped={isfliphack}>
          <div  onClick={flipcardhack}>
-         <img className="img-thumbnail rounded-circle h-30 w-50"  src="/images/hackerank.jpeg" />              
+         <img className="img-thumbnail rounded-circle h-30 w-50"  src="./images/hackerank.jpeg" />              
                     <a  href="https://auth.geeksforgeeks.org/user/21itgjti"/ >
                 </div>
                 
@@ -80,7 +80,7 @@ function Techprofile(){
    <div class="col">
    <ReactCardFlip flipDirection='horizontal' isFlipped={isflipgit}>
          <div onClick={flipcardgit} >
-         <img className="img-thumbnail rounded-circle h-20 w-50"  src="/images/git.jpeg" />              
+         <img className="img-thumbnail rounded-circle h-20 w-50"  src="./images/git.jpeg" />              
                     <a  href="https://auth.geeksforgeeks.org/user/21itgjti"/ >
                </div>
                 
