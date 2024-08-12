@@ -34,7 +34,7 @@ function Home() {
 
   </img>
     <div className='h-60 w-60 mx-auto mycard bg-warning-subtle ' style={{marginLeft:"8px"}}>
-  <img src="images/aditee.jpg" class="rounded-circle photo mx-auto p-2 " height="250px" width="250px"/>
+  <img src="/images/aditee.jpg" class="rounded-circle photo mx-auto p-2 " height="250px" width="250px"/>
     <div class="col-md-6 p-lg-5 mx-auto my-5">
     <h2 class=" text-dark">Welcome to my portfolio</h2>
       <h1 class="display-3 fw-bold text-dark">Hey folks, I'm Aditee</h1>
