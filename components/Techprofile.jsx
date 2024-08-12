@@ -80,7 +80,7 @@ function Techprofile(){
    <div class="col">
    <ReactCardFlip flipDirection='horizontal' isFlipped={isflipgit}>
          <div onClick={flipcardgit} >
-         <img className="img-thumbnail rounded-circle h-20 w-50"  src="/images/git.jpeg" />              
+         <img className="img-thumbnail rounded-circle h-20 w-50"  src="./images/git.jpeg" />              
                     <a  href="https://auth.geeksforgeeks.org/user/21itgjti"/ >
                </div>
                 
