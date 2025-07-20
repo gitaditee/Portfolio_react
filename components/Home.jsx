@@ -12,7 +12,7 @@ import Contact from '../components/Contact';
 import "./Header.css";
 function Home() {
   const [text, helper]= useTypewriter({
-    words:['4 year B.Tech student','Software Developer', 'Android Developer', 'Java Developer', 'Web Developer'],
+    words:['Software Developer', 'Java Developer', 'Web Developer','Automation SDET', 'Full Stack Developer', 'Competitive Programmer'],
     loop: 5, 
     typeSpeed: 70, 
     deleteSpeed: 50, 

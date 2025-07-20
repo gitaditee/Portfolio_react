@@ -112,13 +112,13 @@ function Techprofile(){
                       <ul >
                         <li>Name   : Aditee</li>
                         <br/>
-                        <li>Age    : 19</li>
+                        <li>Age    : 20</li>
                         <br/>
                         <li>Adress : Ajmer , Rajasthan</li>
                         <br/>
                         <li>Email: aditeesingh03@gmail.com</li>
                      </ul> 
-                     <a href="https://drive.google.com/file/d/1bDbaQo0Z03BG9-s6nsgV0la7-vMYjEn6/view?usp=sharing"><button id="cv" className='btn'>Download CV</button></a>
+                     <a href="https://drive.google.com/file/d/1G42-n3jIsrmxk6IMwCB8e_sZ50OqEjfD/view?usp=sharing"><button id="cv" className='btn'>Download CV</button></a>
                   
            
   </div>

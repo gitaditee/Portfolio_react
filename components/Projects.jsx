@@ -11,6 +11,26 @@ class Projects extends Component {
     <p class="fs-1">Projects</p>
     </div>
         <Carousel>
+           <div className="ms-5 me-5 ">
+
+            <div class="card text-center ">
+              <div class="card-header bs-danger-bg-subtle">Xceedance</div>
+              <div class="card-body">
+                <h5 class="card-title">Home Sure Broker Portal </h5>
+                <p class="card-text ms-5 me-5">
+               
+               Developed a broker portal using Angular and Spring Boot for HomeSure Insurance.
+Enabled brokers to generate quotes for Home Insurance and Home + Umbrella Insurance with extra premiums.
+Provided a dashboard for brokers to view and manage all their clients and quotes.
+Implemented dynamic quote calculation and secure data management with MySQL.
+                </p>
+                <a href="https://github.com/gitaditee/broker_portal" class="btn btn-primary">
+                  GitHub
+                </a>
+              </div>
+              
+            </div>
+            </div>
           <div className="ms-5 me-5 ">
 
             <div class="card text-center ">

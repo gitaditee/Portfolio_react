@@ -15,6 +15,23 @@ function Experinec(){
       </div>
     
 <VerticalTimeline>
+   <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    contentStyle={{ background: "white", color: 'black' }}
+    contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
+    date="Jan-2025 "
+     dateClassName="date-white"
+    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+    
+  >
+    <img src="/images/xc.png" style={{width:"50%"}}></img>
+    <h4 className="vertical-timeline-element-title">Xceedance </h4>
+    <p className="vertical-timeline-element-subtitle">Gurugram, Haryana</p>
+    <p>
+    Designation- Analyst Programmer L1 </p>  
+    <p>Department-Automation SDET(Testing COE) </p>
+  
+  </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
     contentStyle={{ background: "white", color: 'black' }}
