@@ -8,7 +8,7 @@ function Edu(){
         title:'Govt. Womens Engineering College , Ajmer',
         author:'Information Technology',
         date:'2021-2025',
-        tags:['cgpa- 9.35']
+        tags:['cgpa- 9.43']
     },{
         id:2,
         image:'./images/sfs.png',
