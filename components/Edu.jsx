@@ -6,7 +6,7 @@ function Edu(){
         id:1,
         image:'./images/gweca.png',
         title:'Govt. Womens Engineering College , Ajmer',
-        author:'Information Technology',
+        author:'B.TECH(Honours) Information Technology',
         date:'2021-2025',
         tags:['cgpa- 9.43']
     },{
