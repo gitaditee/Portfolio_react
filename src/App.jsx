@@ -19,7 +19,11 @@ function App() {
    <Router>
       <Header />
       <Routes>
+<<<<<<< HEAD
       <Route path="/" element={<Home />} />
+=======
+         <Route path="/" element={<Home />} />
+>>>>>>> 728799d60dfdd532fb1e7142dbfe912679e8c9f8
         <Route path="/home" element={<Home />} />
         <Route path="/about-me" element={<Techprofile />} />
         <Route path="/work" element={<Experinec/>} />
